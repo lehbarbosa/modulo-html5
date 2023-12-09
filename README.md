@@ -1,4 +1,4 @@
-# O que você encontrará neste repositório?
+# Módulo HTML - Curso Full Stack JavaScript OneBitCode
 **Aulas:** Este repositório contém uma coleção de aulas organizadas em pastas temáticas. Cada pasta aborda um tópico específico em HTML, com exemplos e explicações claras. As aulas são projetadas para níveis, iniciantes.
 
 **Exemplos de Código:** Em muitas aulas, você encontrará exemplos de código prontos para uso. Esses exemplos ajudarão a ilustrar os conceitos discutidos nas aulas.
